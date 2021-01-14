@@ -1,0 +1,30 @@
+.all-card{
+    border: none;
+    margin-right: 2%;
+    box-shadow: 2px 2px 20px gray;
+}
+
+.btn-success{
+    height: 60px;
+    background-color: rgb(109, 160, 13);
+    border-radius:12PX;
+    border: none;
+    width: 140px;
+}
+body{
+    background-color: rgb(243, 243, 243);
+}
+#submit{
+    margin-top: 10%;
+    color: rgb(58, 73, 58);
+    height: 150px;
+    width: auto;
+    background-color: rgb(206, 193, 193);
+    border-radius: 15px;
+}
+.feedback{
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    
+}
